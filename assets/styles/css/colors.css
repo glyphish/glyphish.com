@@ -1,0 +1,29 @@
+h1.body-dark, h2.body-dark, h3.body-dark, h4.body-dark, h5.body-dark, h6.body-dark, p.body-dark {
+  color: #222222; }
+h1.body-light, h2.body-light, h3.body-light, h4.body-light, h5.body-light, h6.body-light, p.body-light {
+  color: #666666; }
+h1.shade, h2.shade, h3.shade, h4.shade, h5.shade, h6.shade, p.shade {
+  color: #F6F5F3; }
+h1.flesh, h2.flesh, h3.flesh, h4.flesh, h5.flesh, h6.flesh, p.flesh {
+  color: #FCE9E4; }
+h1.juice, h2.juice, h3.juice, h4.juice, h5.juice, h6.juice, p.juice {
+  color: #FED9C9; }
+h1.deepspace, h2.deepspace, h3.deepspace, h4.deepspace, h5.deepspace, h6.deepspace, p.deepspace {
+  color: #15313C; }
+h1.atmosphere, h2.atmosphere, h3.atmosphere, h4.atmosphere, h5.atmosphere, h6.atmosphere, p.atmosphere {
+  color: #E7FDF5; }
+h1.petrol, h2.petrol, h3.petrol, h4.petrol, h5.petrol, h6.petrol, p.petrol {
+  color: #F4DE67; }
+
+.flesh {
+  background-color: #FCE9E4; }
+
+.deepspace {
+  background-color: #15313C; }
+  .deepspace h3 {
+    color: white; }
+
+.shade {
+  background-color: #F6F5F3; }
+
+/*# sourceMappingURL=colors.css.map */

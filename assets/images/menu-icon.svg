@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="8px" viewBox="0 0 20 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>menu-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-mobile" transform="translate(-585.000000, -40.000000)">
+            <g id="header" transform="translate(32.000000, 32.000000)">
+                <g id="menu-icon" transform="translate(551.000000, 0.000000)">
+                    <rect id="bounds" fill-opacity="0" fill="#BD10E0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M2,14 L22,14 L22,16 L2,16 L2,14 Z M2,8 L22,8 L22,10 L2,10 L2,8 Z" id="icon-menu" fill="#666666"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
